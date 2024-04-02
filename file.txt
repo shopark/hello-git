@@ -3,8 +3,5 @@
 2nd
 3rd - branch
 4rd - mybranch
-<<<<<<< HEAD
 hot fix
-=======
 5nd
->>>>>>> b9ba424 (5nd)
